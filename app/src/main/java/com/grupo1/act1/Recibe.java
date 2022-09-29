@@ -8,7 +8,7 @@ import android.widget.TextView;
 public class Recibe extends AppCompatActivity {
     TextView tx1;
     TextView tx2;
-
+ //Hola
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
