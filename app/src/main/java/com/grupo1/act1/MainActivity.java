@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     public EditText nom;
     public EditText ap;
     private Button b;
+    //hola
     String a;
 
 
